@@ -1,0 +1,15 @@
+C:\Users\mihic\git\repos\zadatak-1-bowlingexample-darkomihic\DomaciURIS\DomaciURIS\bin\Debug\net6.0\DomaciURIS.exe
+C:\Users\mihic\git\repos\zadatak-1-bowlingexample-darkomihic\DomaciURIS\DomaciURIS\bin\Debug\net6.0\DomaciURIS.deps.json
+C:\Users\mihic\git\repos\zadatak-1-bowlingexample-darkomihic\DomaciURIS\DomaciURIS\bin\Debug\net6.0\DomaciURIS.runtimeconfig.json
+C:\Users\mihic\git\repos\zadatak-1-bowlingexample-darkomihic\DomaciURIS\DomaciURIS\bin\Debug\net6.0\DomaciURIS.dll
+C:\Users\mihic\git\repos\zadatak-1-bowlingexample-darkomihic\DomaciURIS\DomaciURIS\bin\Debug\net6.0\DomaciURIS.pdb
+C:\Users\mihic\git\repos\zadatak-1-bowlingexample-darkomihic\DomaciURIS\DomaciURIS\obj\Debug\net6.0\DomaciURIS.csproj.AssemblyReference.cache
+C:\Users\mihic\git\repos\zadatak-1-bowlingexample-darkomihic\DomaciURIS\DomaciURIS\obj\Debug\net6.0\DomaciURIS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mihic\git\repos\zadatak-1-bowlingexample-darkomihic\DomaciURIS\DomaciURIS\obj\Debug\net6.0\DomaciURIS.AssemblyInfoInputs.cache
+C:\Users\mihic\git\repos\zadatak-1-bowlingexample-darkomihic\DomaciURIS\DomaciURIS\obj\Debug\net6.0\DomaciURIS.AssemblyInfo.cs
+C:\Users\mihic\git\repos\zadatak-1-bowlingexample-darkomihic\DomaciURIS\DomaciURIS\obj\Debug\net6.0\DomaciURIS.csproj.CoreCompileInputs.cache
+C:\Users\mihic\git\repos\zadatak-1-bowlingexample-darkomihic\DomaciURIS\DomaciURIS\obj\Debug\net6.0\DomaciURIS.dll
+C:\Users\mihic\git\repos\zadatak-1-bowlingexample-darkomihic\DomaciURIS\DomaciURIS\obj\Debug\net6.0\refint\DomaciURIS.dll
+C:\Users\mihic\git\repos\zadatak-1-bowlingexample-darkomihic\DomaciURIS\DomaciURIS\obj\Debug\net6.0\DomaciURIS.pdb
+C:\Users\mihic\git\repos\zadatak-1-bowlingexample-darkomihic\DomaciURIS\DomaciURIS\obj\Debug\net6.0\DomaciURIS.genruntimeconfig.cache
+C:\Users\mihic\git\repos\zadatak-1-bowlingexample-darkomihic\DomaciURIS\DomaciURIS\obj\Debug\net6.0\ref\DomaciURIS.dll
